@@ -127,6 +127,11 @@
 ![Пример работы UI](7.jpg)
 ![Пример работы UI](8.jpg)
   
-  
+  ### Запуск проекта
+
+  * Код: Hackaton _2(1).ipynb
+  * Датасеты: DataSet_1column_labeled(210).xlsx (созданный вручную датасет), augmented_dataset.xlsx ( датасет с аугментацией по синонимам)
+  * Модель: bert_model.pkl   Векторизация: bert_vektorizer.pkl
+  * Библиотека для UI: Gradio
 
 
