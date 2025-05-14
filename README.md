@@ -1,6 +1,7 @@
 # MEPHI_Hackaton_2025
 
-# Многоклассовая классификация текстов ( multilabel texts classification)
+# Многоклассовая классификация текстов для компании Норси-Транс
+( multilabel texts classification)
 **Проект Хакатона МИФИ | Команда `Lab_Story`**
 
 ---
