@@ -41,7 +41,7 @@
 
 ---
 
-## 🧠 Модели
+## 📌  Модели
 
 - **TF-IDF + Logistic Regression** (`One-vs-Rest`)
 - **RuBERT** (`DeepPavlov/rubert-base-cased`)
